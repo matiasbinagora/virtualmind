@@ -1,0 +1,14 @@
+/home/turko/Projects/exchange/exchange/bin/Debug/netcoreapp2.2/exchange.deps.json
+/home/turko/Projects/exchange/exchange/bin/Debug/netcoreapp2.2/exchange.runtimeconfig.json
+/home/turko/Projects/exchange/exchange/bin/Debug/netcoreapp2.2/exchange.runtimeconfig.dev.json
+/home/turko/Projects/exchange/exchange/bin/Debug/netcoreapp2.2/exchange.dll
+/home/turko/Projects/exchange/exchange/bin/Debug/netcoreapp2.2/exchange.pdb
+/home/turko/Projects/exchange/exchange/obj/Debug/netcoreapp2.2/exchange.csprojAssemblyReference.cache
+/home/turko/Projects/exchange/exchange/obj/Debug/netcoreapp2.2/exchange.csproj.CoreCompileInputs.cache
+/home/turko/Projects/exchange/exchange/obj/Debug/netcoreapp2.2/exchange.RazorAssemblyInfo.cache
+/home/turko/Projects/exchange/exchange/obj/Debug/netcoreapp2.2/exchange.RazorAssemblyInfo.cs
+/home/turko/Projects/exchange/exchange/obj/Debug/netcoreapp2.2/exchange.AssemblyInfoInputs.cache
+/home/turko/Projects/exchange/exchange/obj/Debug/netcoreapp2.2/exchange.AssemblyInfo.cs
+/home/turko/Projects/exchange/exchange/obj/Debug/netcoreapp2.2/exchange.RazorTargetAssemblyInfo.cache
+/home/turko/Projects/exchange/exchange/obj/Debug/netcoreapp2.2/exchange.dll
+/home/turko/Projects/exchange/exchange/obj/Debug/netcoreapp2.2/exchange.pdb

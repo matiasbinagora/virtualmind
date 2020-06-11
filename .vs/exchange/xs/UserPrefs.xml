@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{047CCFD6-1630-4B91-BC21-DCECED35635B}|Default">
+  <MonoDevelop.Ide.ItemProperties.exchange PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="exchange/Controllers/ExchangeController.cs">
+    <Files>
+      <File FileName="exchange/Program.cs" Line="22" Column="25" />
+      <File FileName="exchange/Controllers/ValuesController.cs" Line="1" Column="1" />
+      <File FileName="exchange/Controllers/ExchangeController.cs" Line="104" Column="79" />
+      <File FileName="exchange/Properties/launchSettings.json" Line="15" Column="25" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="exchange" expanded="True">
+            <Node name="exchange" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="ExchangeController.cs" selected="True" />
+              </Node>
+              <Node name="Properties" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
